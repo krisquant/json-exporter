@@ -1,0 +1,2 @@
+{"people": [
+{"firstname":"John Doe","age":30,"active":true,"contactinfo":{"email":"john@example.com","phone":"555-1234"},"hobbies":["Reading","Hiking","Cooking"]},{"firstname":"Jane Smith","age":25,"active":true,"contactinfo":{"email":"jane@example.com","phone":"555-5678"},"hobbies":["Swimming","Painting"]}]}
